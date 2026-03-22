@@ -1,0 +1,7 @@
+name: Barra
+slug: barra
+state: BA
+active: true
+city: Salvador
+citySlug: salvador
+type: bairro
