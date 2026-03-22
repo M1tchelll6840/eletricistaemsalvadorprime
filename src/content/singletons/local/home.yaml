@@ -6,40 +6,10 @@ companyAddress: Av. Tancredo Neves, 620, Sala 305 - Caminho das Arvores, Salvado
 companyCity: Salvador
 companyState: Ba
 companyCEP: 41820-020
-heroBadge: Eletricista
-heroTitle: "Instalação Elétrica Residencial "
-heroTitleHighlight: em Salvador
-heroSubtitle: Instalação segura, rápida e com garantia para sua casa.
-heroCtaText: Falar no WhatsApp
-heroCtaSecondaryText: Ver tipos
-heroWhatsappMessage: "Olá! 👋 Obrigado por entrar em contato com a **Eletricista Em Salvador Prime** ⚡  Por favor, nos informe: 📍 Seu bairro 🔧 Qual serviço você precisa (ex: chuveiro, tomada, disjuntor, curto-circuito, instalação elétrica, etc.) ⏰ Se é urgente ou pode agendar  Assim conseguimos te atender mais rápido e enviar o orçamento. Estamos à disposição!"
 heroBackground: ""
+clients: []
 socialTitle: Empresas que confiam em nós
 socialProofActive: false
-clients: []
-servicesTitle: Elétrica
-servicesSubtitle: Soluções Completas Para Você!
-featuredServices:
-  - aluguel-de-andaime
-  - aluguel-andaime-fachadeiro
-  - aluguel-andaime-movel
-  - aluguel-andaime-tubular
-  - aluguel-plataforma-elevatoria
-  - aluguel-escada-aluminio
-  - montagem-de-andaime
-aboutTitle: Precisa de um Eletricista em Salvador?
-aboutSubtitle: Chegamos rápido para resolver seu problema elétrico com segurança.
-aboutText: |-
-  A Eletricista Em Salvador Prime é uma empresa especializada em serviços elétricos residenciais e comerciais, oferecendo soluções rápidas, seguras e confiáveis em toda Salvador e região.
-  Empresa de prestação de serviços com atendimento no local do cliente
-aboutImage: ""
-aboutStats:
-  - number: 20+
-    label: Anos de experiência
-  - number: 3000+
-    label: Obras atendidas
-  - number: 100%
-    label: Segurança garantida
 locationTitle: Nossa Localização
 locationAddress: Av. Tancredo Neves, 620, Sala 305 - Caminho das Arvores, Salvador - Ba
 locationMapEmbed: ""
@@ -47,4 +17,30 @@ ctaTitle: Solicite seu Orçamento Agora! Atendimento rápido e profissional em S
 ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
 ctaButtonText: Chamar no WhatsApp
 ctaWhatsappMessage: Chamar no WhatsApp Agora
-activeTemplateId: aluguel-andaime
+heroBadge: ⚡ Eletricista de confiança
+heroTitle: Especialistas em Instalações Elétricas
+heroTitleHighlight: em São Paulo
+heroSubtitle: Instalação, manutenção e reparo elétrico. Atendimento seguro e com certificação. Orçamento sem compromisso!
+heroCtaText: Falar no WhatsApp
+heroCtaSecondaryText: Ver nossos serviços
+heroWhatsappMessage: Olá! Preciso de um eletricista. Vocês atendem aqui?
+servicesTitle: Serviços Elétricos
+servicesSubtitle: Soluções elétricas para sua casa ou empresa
+aboutTitle: Eletricista Residencial e Comercial
+aboutSubtitle: Profissionais qualificados
+aboutText: Nossa equipe de eletricistas oferece instalações, manutenções e reparos com segurança e qualidade. Trabalhamos em residências e comércios, sempre seguindo as normas técnicas. Conserto de quadro elétrico, tomadas, iluminação e muito mais.
+aboutStats:
+  - number: 10+
+    label: Anos de experiência
+  - number: 800+
+    label: Instalações realizadas
+  - number: 100%
+    label: Satisfação garantida
+featuredServices:
+  - instalacao-eletrica-residencial
+  - troca-de-quadro-eletrico
+  - instalacao-de-tomada
+  - instalacao-de-luminaria
+  - manutencao-eletrica
+  - chaveamento-de-lampada
+activeTemplateId: eletricista
