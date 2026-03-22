@@ -1,22 +1,11 @@
-companyName: Minha Empresa
+companyName: Eletricista Em Salvador Prime
 companyPhone: ""
 companyWhatsapp: ""
-companyEmail: contato@minhaempresa.com.br
-companyAddress: Rua Exemplo, 123 - Bairro
-companyCity: São Paulo
-companyState: SP
-companyCEP: 01000-000
-heroBackground: ""
-clients: []
-socialTitle: Empresas que confiam em nós
-socialProofActive: false
-locationTitle: Nossa Localização
-locationAddress: Rua Exemplo, 123 - Bairro - São Paulo/SP
-locationMapEmbed: ""
-ctaTitle: Precisa de ajuda agora?
-ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
-ctaButtonText: Chamar no WhatsApp
-ctaWhatsappMessage: Olá! Gostaria de mais informações.
+companyEmail: comercial@eletricistaemsalvadorprime.com.br
+companyAddress: Av. Tancredo Neves, 620, Sala 305 - Caminho das Arvores, Salvador - Ba
+companyCity: Salvador
+companyState: Ba
+companyCEP: 41820-020
 heroBadge: Andaime para Obra
 heroTitle: Aluguel de Andaime
 heroTitleHighlight: em São Paulo
@@ -24,18 +13,12 @@ heroSubtitle: Andaimes metálicos e fachadeiros para obras e serviços em altura
 heroCtaText: Falar no WhatsApp
 heroCtaSecondaryText: Ver tipos
 heroWhatsappMessage: Olá! Preciso alugar andaime para minha obra. Vocês montam?
+heroBackground: ""
+socialTitle: Empresas que confiam em nós
+socialProofActive: false
+clients: []
 servicesTitle: Andaimes para Locação
 servicesSubtitle: Segurança nas alturas
-aboutTitle: Referência em Aluguel de Andaime
-aboutSubtitle: Equipamentos certificados
-aboutText: Locamos andaimes metálicos, fachadeiros e móveis para obras e serviços em altura. Montagem e desmontagem por equipe treinada. Equipamentos com certificação.
-aboutStats:
-  - number: 20+
-    label: Anos de experiência
-  - number: 3000+
-    label: Obras atendidas
-  - number: 100%
-    label: Segurança garantida
 featuredServices:
   - aluguel-de-andaime
   - aluguel-andaime-fachadeiro
@@ -44,4 +27,22 @@ featuredServices:
   - aluguel-plataforma-elevatoria
   - aluguel-escada-aluminio
   - montagem-de-andaime
+aboutTitle: Referência em Aluguel de Andaime
+aboutSubtitle: Equipamentos certificados
+aboutText: Locamos andaimes metálicos, fachadeiros e móveis para obras e serviços em altura. Montagem e desmontagem por equipe treinada. Equipamentos com certificação.
+aboutImage: ""
+aboutStats:
+  - number: 20+
+    label: Anos de experiência
+  - number: 3000+
+    label: Obras atendidas
+  - number: 100%
+    label: Segurança garantida
+locationTitle: Nossa Localização
+locationAddress: Rua Exemplo, 123 - Bairro - São Paulo/SP
+locationMapEmbed: ""
+ctaTitle: Precisa de ajuda agora?
+ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
+ctaButtonText: Chamar no WhatsApp
+ctaWhatsappMessage: Olá! Gostaria de mais informações.
 activeTemplateId: aluguel-andaime
