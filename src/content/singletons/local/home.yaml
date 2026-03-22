@@ -6,36 +6,19 @@ companyAddress: Av. Tancredo Neves, 620, Sala 305 - Caminho das Arvores, Salvado
 companyCity: Salvador
 companyState: Ba
 companyCEP: 41820-020
-heroBackground: ""
-clients: []
-socialTitle: Empresas que confiam em nós
-socialProofActive: false
-locationTitle: Nossa Localização
-locationAddress: Av. Tancredo Neves, 620, Sala 305 - Caminho das Arvores, Salvador - Ba
-locationMapEmbed: ""
-ctaTitle: Solicite seu Orçamento Agora! Atendimento rápido e profissional em Salvador
-ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
-ctaButtonText: Chamar no WhatsApp
-ctaWhatsappMessage: Chamar no WhatsApp Agora
 heroBadge: ⚡ Eletricista de confiança
 heroTitle: Especialistas em Instalações Elétricas
-heroTitleHighlight: em São Paulo
+heroTitleHighlight: em Salvador
 heroSubtitle: Instalação, manutenção e reparo elétrico. Atendimento seguro e com certificação. Orçamento sem compromisso!
 heroCtaText: Falar no WhatsApp
 heroCtaSecondaryText: Ver nossos serviços
 heroWhatsappMessage: Olá! Preciso de um eletricista. Vocês atendem aqui?
+heroBackground: /images/general/1774219518583-Gemini-Generated-Image-ulzk72ulzk72ulzk.png
+socialTitle: Empresas que confiam em nós
+socialProofActive: false
+clients: []
 servicesTitle: Serviços Elétricos
 servicesSubtitle: Soluções elétricas para sua casa ou empresa
-aboutTitle: Eletricista Residencial e Comercial
-aboutSubtitle: Profissionais qualificados
-aboutText: Nossa equipe de eletricistas oferece instalações, manutenções e reparos com segurança e qualidade. Trabalhamos em residências e comércios, sempre seguindo as normas técnicas. Conserto de quadro elétrico, tomadas, iluminação e muito mais.
-aboutStats:
-  - number: 10+
-    label: Anos de experiência
-  - number: 800+
-    label: Instalações realizadas
-  - number: 100%
-    label: Satisfação garantida
 featuredServices:
   - instalacao-eletrica-residencial
   - troca-de-quadro-eletrico
@@ -43,4 +26,22 @@ featuredServices:
   - instalacao-de-luminaria
   - manutencao-eletrica
   - chaveamento-de-lampada
+aboutTitle: Eletricista Residencial e Comercial
+aboutSubtitle: Profissionais qualificados
+aboutText: Nossa equipe de eletricistas oferece instalações, manutenções e reparos com segurança e qualidade. Trabalhamos em residências e comércios, sempre seguindo as normas técnicas. Conserto de quadro elétrico, tomadas, iluminação e muito mais.
+aboutImage: ""
+aboutStats:
+  - number: 10+
+    label: Anos de experiência
+  - number: 800+
+    label: Instalações realizadas
+  - number: 100%
+    label: Satisfação garantida
+locationTitle: Nossa Localização
+locationAddress: Av. Tancredo Neves, 620, Sala 305 - Caminho das Arvores, Salvador - Ba
+locationMapEmbed: ""
+ctaTitle: Solicite seu Orçamento Agora! Atendimento rápido e profissional em Salvador
+ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
+ctaButtonText: Chamar no WhatsApp
+ctaWhatsappMessage: Chamar no WhatsApp Agora
 activeTemplateId: eletricista
