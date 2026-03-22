@@ -29,7 +29,9 @@ featuredServices:
   - montagem-de-andaime
 aboutTitle: Precisa de um Eletricista em Salvador?
 aboutSubtitle: Chegamos rápido para resolver seu problema elétrico com segurança.
-aboutText: A Eletricista Em Salvador Prime é uma empresa especializada em serviços elétricos residenciais e comerciais, oferecendo soluções rápidas, seguras e confiáveis em toda Salvador e região
+aboutText: |-
+  A Eletricista Em Salvador Prime é uma empresa especializada em serviços elétricos residenciais e comerciais, oferecendo soluções rápidas, seguras e confiáveis em toda Salvador e região.
+  Empresa de prestação de serviços com atendimento no local do cliente
 aboutImage: ""
 aboutStats:
   - number: 20+
@@ -39,7 +41,7 @@ aboutStats:
   - number: 100%
     label: Segurança garantida
 locationTitle: Nossa Localização
-locationAddress: Rua Exemplo, 123 - Bairro - São Paulo/SP
+locationAddress: Av. Tancredo Neves, 620, Sala 305 - Caminho das Arvores, Salvador - Ba
 locationMapEmbed: ""
 ctaTitle: Precisa de ajuda agora?
 ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
