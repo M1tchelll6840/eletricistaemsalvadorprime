@@ -1,6 +1,6 @@
-logoType: image
+logoType: text
 logoText: ELETRICISTA EM SALVADOR PRIME
-logoImage: /images/general/1774597214092-Gemini-Generated-Image-6aoo996aoo996aoo-removebg-preview.png
+logoImage: ""
 items:
   - label: Home
     href: /
