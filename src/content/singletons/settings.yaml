@@ -1,6 +1,6 @@
 siteName: CNX Agency
 colorScheme: light
-siteMode: blog
+siteMode: local
 aiProvider: gemini
 aiApiKey: AIzaSyDKVGhZu47TtxttG9bXUvhaNEYrsIjxtos
 pexelsApiKey: ""
