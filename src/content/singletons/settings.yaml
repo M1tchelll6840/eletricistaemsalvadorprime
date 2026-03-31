@@ -1,8 +1,8 @@
 siteName: CNX Agency
 colorScheme: light
 siteMode: local
-aiProvider: gemini
-aiApiKey: AIzaSyDKVGhZu47TtxttG9bXUvhaNEYrsIjxtos
+aiProvider: openai
+aiApiKey: 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
 pexelsApiKey: ""
 canonicalUrl: https://eletricistaemsalvadorprime.com.br
 companyPhone: "71986710482"
