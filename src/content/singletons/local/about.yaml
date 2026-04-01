@@ -1,6 +1,6 @@
 heroTitle: Eletricista Residencial e Comercial
 heroSubtitle: Profissionais qualificados
-aboutImage: null
+aboutImage: /images/general/1775016446829-Eletricista-trabalhando-no-painel-el-trico.png
 aboutText: Nossa equipe de eletricistas oferece instalações, manutenções e reparos com segurança e qualidade. Trabalhamos em residências e comércios, sempre seguindo as normas técnicas. Conserto de quadro elétrico, tomadas, iluminação e muito mais.
 aboutStats:
   - number: 10+
@@ -37,4 +37,3 @@ differentials:
 ctaTitle: Solicite seu Orçamento Agora! Atendimento rápido e profissional em Salvador
 ctaDescription: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
 ctaButtonText: Chamar no WhatsApp
-heroBackground: /images/general/1774163119387-Gemini-Generated-Image-4xaxxf4xaxxf4xax.png
