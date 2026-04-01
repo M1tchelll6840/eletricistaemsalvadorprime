@@ -1,0 +1,40 @@
+heroTitle: Eletricista Residencial e Comercial
+heroSubtitle: Profissionais qualificados
+aboutImage: null
+aboutText: Nossa equipe de eletricistas oferece instalações, manutenções e reparos com segurança e qualidade. Trabalhamos em residências e comércios, sempre seguindo as normas técnicas. Conserto de quadro elétrico, tomadas, iluminação e muito mais.
+aboutStats:
+  - number: 10+
+    label: Anos de experiência
+  - number: 800+
+    label: Instalações realizadas
+  - number: 100%
+    label: Satisfação garantida
+missionTitle: Nossa Missão
+missionDescription: Nossa equipe de eletricistas oferece instalações, manutenções e reparos com segurança e qualidade. Trabalhamos em residências e comércios, sempre seguindo as normas técnicas. Conserto de quadro elétrico, tomadas, iluminação e muito mais.
+visionTitle: Nossa Visão
+visionDescription: Ser referência em atendimento na nossa região.
+values:
+  - icon: ⭐
+    title: Qualidade
+    description: Serviços executados com excelência.
+  - icon: ⏱️
+    title: Pontualidade
+    description: Compromisso com prazos.
+  - icon: 💬
+    title: Transparência
+    description: Orçamento claro e sem surpresas.
+  - icon: 🛡️
+    title: Garantia
+    description: Trabalho com garantia.
+valuesTitle: Nossos Valores
+differentialsTitle: Por que nos escolher?
+differentials:
+  - Profissionais qualificados e certificados
+  - Orçamento sem compromisso
+  - Atendimento rápido na sua região
+  - Materiais de qualidade
+  - Garantia em todos os serviços
+ctaTitle: Solicite seu Orçamento Agora! Atendimento rápido e profissional em Salvador
+ctaDescription: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
+ctaButtonText: Chamar no WhatsApp
+heroBackground: /images/general/1774163119387-Gemini-Generated-Image-4xaxxf4xaxxf4xax.png
