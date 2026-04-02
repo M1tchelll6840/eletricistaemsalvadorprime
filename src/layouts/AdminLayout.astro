@@ -18,6 +18,7 @@ import AdminHeader from '../components/admin/Header.astro';
 import { verifySession, SESSION_COOKIE } from '../utils/auth-utils';
 import { getEffectiveSiteMode, themeSupportsBlogAndLocal } from '../utils/admin-site-mode';
 import { getEntry } from 'astro:content';
+import SpeedInsights from '@vercel/speed-insights/astro';
 import '../styles/global.css';
 import '../styles/admin.css';
 import '@fontsource/inter';
@@ -149,6 +150,9 @@ const secondaryRGB = hexToRgb(secondaryColor);
                 </main>
             </div>
         </div>
+
+        <!-- Vercel Speed Insights -->
+        <SpeedInsights />
 
         <!-- Verificação de versão do template (em todas as páginas do admin) -->
         <script is:inline>
