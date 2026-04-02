@@ -12,6 +12,7 @@ import { readSingleton } from '../utils/singleton-utils';
 import { readSiteSettings } from '../utils/read-site-settings';
 import Header from '../themes/classic/components/Header.astro';
 import Footer from '../themes/classic/components/Footer.astro';
+import SpeedInsights from '@vercel/speed-insights/astro';
 import '../styles/global.css';
 import '@fontsource/inter';
 import '@fontsource/outfit';
@@ -111,5 +112,8 @@ const secondaryRGB = hexToRgb(secondaryColor);
 
         <!-- Banner de consentimento de cookies (LGPD/GDPR) -->
         <CookieConsent gaId={gaId} fbPixelId={fbPixelId} />
+        
+        <!-- Vercel Speed Insights -->
+        <SpeedInsights />
 	</body>
 </html>
