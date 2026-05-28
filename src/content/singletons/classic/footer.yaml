@@ -1,6 +1,9 @@
-siteName: Meu Blog
-copyright: © 2026 Meu Blog. Todos os direitos reservados.
-description: A **Eletricista Em Salvador Prime** oferece serviços elétricos residenciais e comerciais com atendimento rápido, segurança e garantia. Atuamos em toda Salvador e região, realizando instalações, manutenções e emergências elétricas com profissionais qualificados e compromisso com a satisfação do cliente.
+siteName: Eletricista em Salvador Prime
+copyright: © 2026 Eletricista em Salvador Prime - Todos os direitos reservados.
+description: |-
+  A Eletricista em Salvador Prime oferece serviços elétricos residenciais, comerciais e emergenciais com atendimento rápido, segurança e garantia de qualidade.
+
+  Atendemos toda Salvador realizando instalações elétricas, manutenção, troca de fiação, chuveiros, tomadas, iluminação, quadros elétricos e soluções profissionais para residências e empresas.
 columns:
   - title: Navegação
     links:
