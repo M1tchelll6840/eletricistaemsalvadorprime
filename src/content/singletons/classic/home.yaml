@@ -1,21 +1,22 @@
 heroBadge: ✨ Eletricista em Salvador 24H
-heroTitle: Eletricista em Salvador 24h com Atendimento Rápido
-heroSubtitle: |-
-  Curto-circuito? Falta de energia? Precisando urgente?
-  Resolvemos rápido com segurança e garantia
+heroTitle: Eletricista 24h em Salvador com Atendimento Rápido e Garantia
+heroSubtitle: Atendimento residencial e comercial com eletricistas qualificados, orçamento rápido e suporte emergencial em toda Salvador.
 heroCtaText: CHAMAR ELETRICISTA AGORA
 heroCtaUrl: /blog
-heroImage: /images/general/1774947121742-Servi-os-el-tricos-r-pidos-em-Salvador--1-.png
-socialProofTitle: Mais de 100 atendimentos realizados em Salvador, clientes satisfeitos todos os dias.
-clientLogos: []
-aboutTitle: Eletricista Profissional em Salvador com Atendimento Rápido e Seguro
-aboutSubtitle: Especialistas em serviços elétricos residenciais, comerciais e emergenciais, com qualidade, responsabilidade e compromisso com a segurança dos nossos clientes.
+heroImage: /images/general/1779947592339-ChatGPT-Image-28-de-mai.-de-2026--02-52-34.png
+socialProofTitle: Mais de 500 atendimentos realizados com segurança em Salvador.
+clientLogos:
+  - name: ""
+    logo: ""
+    url: ""
+aboutTitle: "Especialistas em Soluções Elétricas Residenciais e Comerciais em Salvador "
+aboutSubtitle: "Atendimento rápido, seguro e profissional para residenciais, empresas e emergências elétricas em toda Salvador "
 aboutContent: |-
-  A Eletricista Em Salvador Prime é uma empresa especializada em serviços elétricos, oferecendo soluções completas para residências, comércios e empresas. Trabalhamos com foco em segurança, agilidade e qualidade, garantindo um atendimento profissional desde o primeiro contato até a finalização do serviço.
+  A Eletricista em Salvador Prime oferece soluções elétricas completas para residências, empresas e comércios em Salvador e região. Trabalhamos com foco em segurança, qualidade e agilidade, garantindo um atendimento profissional desde o primeiro contato até a finalização do serviço.
 
-  Nossa equipe é preparada para realizar instalações elétricas, manutenção preventiva e corretiva, troca de fiação, instalação de chuveiros, ventiladores, luminárias, quadros elétricos, disjuntores, padrões de energia e muito mais. Atendemos com rapidez e responsabilidade, sempre utilizando materiais adequados e seguindo as normas técnicas de segurança.
+  Nossa equipe atua em instalações elétricas, manutenção preventiva, troca de fiação, quadros elétricos, iluminação, chuveiros, tomadas, disjuntores e emergências elétricas 24 horas.
 
-  Nosso compromisso é oferecer um serviço confiável, transparente e eficiente, proporcionando tranquilidade e satisfação aos nossos clientes. Estamos prontos para atender emergências elétricas e resolver problemas com rapidez, garantindo o funcionamento seguro da sua instalação elétrica.
+  Atendemos com responsabilidade, transparência e compromisso, sempre utilizando materiais de qualidade e seguindo padrões de segurança para proteger sua família e seu patrimônio.
 aboutImage: /images/general/1775240661509-Eletricista-trabalhando-no-painel-el-trico.png
 aboutStats:
   - number: 8+
@@ -24,6 +25,6 @@ aboutStats:
     label: Open Source
   - number: < 1s
     label: Tempo de Carregamento
-servicesTitle: Atendimento rápido no mesmo dia
-servicesSubtitle: Garantia no serviço realizado
+servicesTitle: Soluções Elétricas Profissionais para Residências e Empresas
+servicesSubtitle: Instalações, manutenção e emergências elétricas com segurança, qualidade e garantia de serviço.
 services: []
