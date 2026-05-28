@@ -5,10 +5,12 @@ import react from '@astrojs/react';
 import tailwind from '@astrojs/tailwind';
 import markdoc from '@astrojs/markdoc';
 
+import cloudflare from "@astrojs/cloudflare";
+
 // https://astro.build/config
 export default defineConfig({
     output: 'server',
-    adapter: vercel(),
+    adapter: cloudflare(),
     integrations: [
         react({
             // classic evita erro "jsxDEV is not a function" com client:only em dev
