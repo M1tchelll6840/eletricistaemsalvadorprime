@@ -1,22 +1,33 @@
-heroTitle: Eletricista Residencial e Comercial
-heroSubtitle: Profissionais qualificados
+heroTitle: Especialistas em Serviços Elétricos em Salvador
+heroSubtitle: Atendimento residencial, comercial e emergencial com foco em segurança, qualidade e confiança.
 aboutImage: /images/general/1775016446829-Eletricista-trabalhando-no-painel-el-trico.png
-aboutText: Nossa equipe de eletricistas oferece instalações, manutenções e reparos com segurança e qualidade. Trabalhamos em residências e comércios, sempre seguindo as normas técnicas. Conserto de quadro elétrico, tomadas, iluminação e muito mais.
+aboutText: |-
+  A Eletricista em Salvador Prime é especializada em serviços elétricos residenciais, comerciais e emergenciais, oferecendo atendimento rápido, seguro e com garantia de qualidade.
+
+  Atuamos em toda Salvador realizando instalações, manutenções, troca de fiação, quadros elétricos, iluminação, tomadas, chuveiros e soluções elétricas completas.
+
+  Nosso compromisso é entregar segurança, agilidade e um atendimento profissional do início ao fim.
 aboutStats:
   - number: 10+
     label: Anos de experiência
   - number: 800+
-    label: Instalações realizadas
+    label: Serviços realizadas
   - number: 100%
-    label: Satisfação garantida
+    label: Compromisso com segurança
 missionTitle: Nossa Missão
-missionDescription: Nossa equipe de eletricistas oferece instalações, manutenções e reparos com segurança e qualidade. Trabalhamos em residências e comércios, sempre seguindo as normas técnicas. Conserto de quadro elétrico, tomadas, iluminação e muito mais.
+missionDescription: Oferecer serviços elétricos com segurança, qualidade e agilidade, garantindo soluções eficientes para residências, comércios e empresas em Salvador.
 visionTitle: Nossa Visão
-visionDescription: Ser referência em atendimento na nossa região.
+visionDescription: Ser referência em serviços elétricos em Salvador, reconhecida pela confiança, excelência no atendimento e compromisso com a segurança dos clientes.
 values:
   - icon: ⭐
     title: Qualidade
-    description: Serviços executados com excelência.
+    description: |-
+      • Segurança em primeiro lugar  
+      • Compromisso com qualidade  
+      • Atendimento transparente  
+      • Respeito ao cliente  
+      • Pontualidade e responsabilidade  
+      • Profissionalismo em cada serviço
   - icon: ⏱️
     title: Pontualidade
     description: Compromisso com prazos.
@@ -34,6 +45,6 @@ differentials:
   - Atendimento rápido na sua região
   - Materiais de qualidade
   - Garantia em todos os serviços
-ctaTitle: Solicite seu Orçamento Agora! Atendimento rápido e profissional em Salvador
-ctaDescription: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
-ctaButtonText: Chamar no WhatsApp
+ctaTitle: Problemas Elétricos? Fale Agora com um Eletricista Profissional em Salvador
+ctaDescription: Atendimento residencial, comercial e emergencial em Salvador. Clique abaixo e fale diretamente com nossa equipe.
+ctaButtonText: Falar com Eletricista no WhatsApp
